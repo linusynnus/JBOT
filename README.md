@@ -62,7 +62,7 @@ To run this program you will require a bunch of API keys. Register your API key 
 
 
     ├── driver
-    ├── Jarvis              # Main folder for features 
+    ├── JBOT              # Main folder for features 
     │   ├── config          # Contains all secret API Keys
     │   ├── features        # All functionalities of JARVIS 
     │   └── utils           # GUI images
