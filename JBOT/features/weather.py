@@ -9,7 +9,7 @@ def fetch_weather(city):
     :param city: City
     :return: weather
     """
-    api_key = '933ec19c9843496c1111dfd48af60672'
+    api_key = 'your weather api-id'
     units_format = "&units=metric"
 
     base_url = "http://api.openweathermap.org/data/2.5/weather?q="
