@@ -32,6 +32,7 @@ It can do a lot of cool things, some of them being:
 - Can take screenshot and save it with custom filename
 - Can hide all files in a folder and also make them visible again
 - Has a cool Graphical User Interface
+- shutdown the computer
 
 ## API Keys
 To run this program you will require a bunch of API keys. Register your API key by clicking the following links
