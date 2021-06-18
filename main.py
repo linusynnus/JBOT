@@ -321,6 +321,9 @@ class MainThread(QThread):
             elif "visible" in command or "make files visible" in command:
                 os.system("attrib -h /s /d")
                 speak("Sir, all the files in this folder are now visible to everyone. I hope you are taking this decision in your own peace")
+            elif "shutdown" in command:
+                os.systsem("shutdown /s /t 1") 
+           
 
             # if "calculate" in command or "what is" in command:
             #     query = command
