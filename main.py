@@ -48,7 +48,7 @@ def speak(text):
     obj.tts(text)
 
 
-app_id = '5T6TJ8-TJJYKGW6J6'
+app_id = 'your wolffromalpha api-id'
 
 
 def computational_intelligence(question):
